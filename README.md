@@ -12,3 +12,8 @@ This is Grails-Solr connection sample code.
 ## Run up
 
     grails run-app
+
+
+## Access
+
+    http://localhost:8080/SolrSample/solr/index
